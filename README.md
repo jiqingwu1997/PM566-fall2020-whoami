@@ -72,7 +72,7 @@ minhaowa
 
 RuowenWang123
 
-jiqingwu1997
+[**jiqingwu1997**] (https://github.com/jiqingwu1997) Hi, I'm Jiqing Wu.
 
 shawnyeusc
 
